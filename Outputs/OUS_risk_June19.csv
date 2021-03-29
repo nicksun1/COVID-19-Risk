@@ -1,0 +1,224 @@
+"","Country.Other","ActiveCases","Lockdown","Risk","Discount","Multiplier"
+"1","USA",1214144,"No","Very High Risk",1,0
+"2","Brazil",416058,"No","Very High Risk",1,0
+"3","Russia",236816,"Yes","Very High Risk",1,0
+"4","India",166442,"Yes","Very High Risk",1,0
+"5","UK",NA,"Yes",NA,NA,NA
+"6","Spain",NA,"Yes",NA,NA,NA
+"7","Peru",105737,"No","Very High Risk",1,0
+"8","Italy",23101,"Yes","Very High Risk",1,0
+"9","Chile",34821,"No","Very High Risk",1,0
+"10","Iran",31678,"No","Very High Risk",1,0
+"11","Germany",7238,"Yes","High Risk",0.8,0.2
+"12","Turkey",23127,"No","Very High Risk",1,0
+"13","Mexico",22613,"No","Very High Risk",1,0
+"14","Pakistan",100450,"No","Very High Risk",1,0
+"15","France",55151,"Yes","Very High Risk",1,0
+"16","Saudi Arabia",53344,"Yes","Very High Risk",1,0
+"17","Bangladesh",61202,"No","Very High Risk",1,0
+"18","Canada",29424,"No","Very High Risk",1,0
+"19","Qatar",19960,"No","High Risk",0.8,0.2
+"20","South Africa",37233,"Yes","Very High Risk",1,0
+"21","Belgium",34030,"Yes","Very High Risk",1,0
+"22","Colombia",35587,"Yes","Very High Risk",1,0
+"23","Belarus",21721,"No","Very High Risk",1,0
+"24","Sweden",NA,"No",NA,NA,NA
+"25","Egypt",34971,"No","Very High Risk",1,0
+"26","Netherlands",NA,"No",NA,NA,NA
+"27","Ecuador",20887,"No","Very High Risk",1,0
+"28","UAE",12849,"No","High Risk",0.8,0.2
+"29","Indonesia",24081,"No","Very High Risk",1,0
+"30","Singapore",8130,"No","Medium Risk",0.5,0.5
+"31","Kuwait",8175,"Yes","High Risk",0.8,0.2
+"32","Portugal",12460,"No","High Risk",0.8,0.2
+"33","Argentina",24705,"Yes","Very High Risk",1,0
+"34","Ukraine",17966,"No","High Risk",0.8,0.2
+"35","Poland",14284,"Yes","Very High Risk",1,0
+"36","Switzerland",361,"No","Very Low Risk",0,1
+"37","Philippines",19951,"No","High Risk",0.8,0.2
+"38","Afghanistan",19368,"No","High Risk",0.8,0.2
+"39","Oman",13571,"No","High Risk",0.8,0.2
+"40","Iraq",13528,"No","High Risk",0.8,0.2
+"41","Ireland",943,"Yes","Low Risk",0.2,0.8
+"42","Dominican Republic",9816,"No","Medium Risk",0.5,0.5
+"43","Romania",5361,"No","Medium Risk",0.5,0.5
+"44","Panama",9094,"No","Medium Risk",0.5,0.5
+"45","Bolivia",16800,"No","High Risk",0.8,0.2
+"46","Bahrain",5677,"No","Medium Risk",0.5,0.5
+"47","Israel",4372,"Yes","Medium Risk",0.5,0.5
+"48","Armenia",10572,"No","High Risk",0.8,0.2
+"49","Nigeria",11698,"No","High Risk",0.8,0.2
+"50","Japan",803,"No","Very Low Risk",0,1
+"51","Austria",442,"No","Very Low Risk",0,1
+"52","Kazakhstan",6051,"No","Medium Risk",0.5,0.5
+"53","Moldova",5132,"No","Medium Risk",0.5,0.5
+"54","Ghana",8395,"No","Medium Risk",0.5,0.5
+"55","Serbia",939,"No","Very Low Risk",0,1
+"56","Denmark",509,"Yes","Low Risk",0.2,0.8
+"57","S. Korea",1191,"No","Low Risk",0.2,0.8
+"58","Guatemala",9129,"No","Medium Risk",0.5,0.5
+"59","Algeria",2496,"No","Low Risk",0.2,0.8
+"60","Azerbaijan",4998,"No","Low Risk",0.2,0.8
+"61","Honduras",9217,"No","Medium Risk",0.5,0.5
+"62","Cameroon",2808,"No","Low Risk",0.2,0.8
+"63","Czechia",2503,"Yes","Medium Risk",0.5,0.5
+"64","Morocco",986,"Yes","Low Risk",0.2,0.8
+"65","Norway",339,"Yes","Low Risk",0.2,0.8
+"66","Malaysia",344,"Yes","Low Risk",0.2,0.8
+"67","Nepal",6850,"No","Medium Risk",0.5,0.5
+"68","Sudan",4567,"No","Low Risk",0.2,0.8
+"69","Australia",429,"Yes","Low Risk",0.2,0.8
+"70","Finland",607,"No","Very Low Risk",0,1
+"71","Ivory Coast",3532,"No","Low Risk",0.2,0.8
+"72","Uzbekistan",1628,"No","Low Risk",0.2,0.8
+"73","Senegal",1772,"No","Low Risk",0.2,0.8
+"74","DRC",4636,"No","Low Risk",0.2,0.8
+"75","Tajikistan",1457,"No","Low Risk",0.2,0.8
+"76","Haiti",4808,"No","Low Risk",0.2,0.8
+"77","Guinea",1348,"No","Low Risk",0.2,0.8
+"78","North Macedonia",2735,"No","Low Risk",0.2,0.8
+"79","Djibouti",987,"No","Very Low Risk",0,1
+"80","Kenya",2705,"Yes","Medium Risk",0.5,0.5
+"81","Gabon",2651,"No","Low Risk",0.2,0.8
+"82","El Salvador",1933,"Yes","Medium Risk",0.5,0.5
+"83","Luxembourg",41,"No","Very Low Risk",0,1
+"84","Hungary",932,"No","Very Low Risk",0,1
+"85","Ethiopia",2971,"No","Low Risk",0.2,0.8
+"86","Bulgaria",1543,"No","Low Risk",0.2,0.8
+"87","Venezuela",2620,"No","Low Risk",0.2,0.8
+"88","Bosnia and Herzegovina",863,"No","Very Low Risk",0,1
+"89","Greece",1665,"No","Low Risk",0.2,0.8
+"90","Thailand",80,"No","Very Low Risk",0,1
+"91","Kyrgyzstan",796,"No","Very Low Risk",0,1
+"92","Somalia",1907,"No","Low Risk",0.2,0.8
+"93","CAR",2169,"No","Low Risk",0.2,0.8
+"94","Mauritania",1777,"No","Low Risk",0.2,0.8
+"95","Mayotte",288,"No","Very Low Risk",0,1
+"96","Cuba",183,"No","Very Low Risk",0,1
+"97","Croatia",31,"No","Very Low Risk",0,1
+"98","Maldives",370,"No","Very Low Risk",0,1
+"99","Estonia",155,"No","Very Low Risk",0,1
+"100","Sri Lanka",491,"No","Very Low Risk",0,1
+"101","Costa Rica",990,"No","Very Low Risk",0,1
+"102","Mali",598,"No","Very Low Risk",0,1
+"103","Albania",682,"No","Very Low Risk",0,1
+"104","South Sudan",1681,"No","Low Risk",0.2,0.8
+"105","Nicaragua",521,"No","Very Low Risk",0,1
+"106","Iceland",8,"No","Very Low Risk",0,1
+"107","Lithuania",254,"No","Very Low Risk",0,1
+"108","French Guiana",969,"No","Very Low Risk",0,1
+"109","Equatorial Guinea",1117,"No","Low Risk",0.2,0.8
+"110","Slovakia",101,"No","Very Low Risk",0,1
+"111","Slovenia",45,"No","Very Low Risk",0,1
+"112","Lebanon",518,"No","Very Low Risk",0,1
+"113","New Zealand",3,"Yes","Low Risk",0.2,0.8
+"114","Guinea-Bissau",1324,"No","Low Risk",0.2,0.8
+"115","Madagascar",932,"No","Very Low Risk",0,1
+"116","Zambia",261,"No","Very Low Risk",0,1
+"117","Paraguay",600,"No","Very Low Risk",0,1
+"118","Sierra Leone",511,"No","Very Low Risk",0,1
+"119","Tunisia",82,"No","Very Low Risk",0,1
+"120","Hong Kong",50,"No","Very Low Risk",0,1
+"121","Latvia",177,"No","Very Low Risk",0,1
+"122","Niger",52,"No","Very Low Risk",0,1
+"123","Jordan",295,"Yes","Low Risk",0.2,0.8
+"124","Cyprus",148,"No","Very Low Risk",0,1
+"125","Yemen",388,"No","Very Low Risk",0,1
+"126","Burkina Faso",37,"No","Very Low Risk",0,1
+"127","Georgia",141,"No","Very Low Risk",0,1
+"128","Congo",465,"No","Very Low Risk",0,1
+"129","Andorra",11,"No","Very Low Risk",0,1
+"130","Chad",47,"No","Very Low Risk",0,1
+"131","Uruguay",12,"No","Very Low Risk",0,1
+"132","Cabo Verde",439,"No","Very Low Risk",0,1
+"133","Uganda",263,"No","Very Low Risk",0,1
+"134","Diamond Princess",48,"No","Very Low Risk",0,1
+"135","San Marino",44,"No","Very Low Risk",0,1
+"136","Sao Tome and Principe",485,"No","Very Low Risk",0,1
+"137","Malta",41,"No","Very Low Risk",0,1
+"138","Palestine",223,"No","Very Low Risk",0,1
+"139","Mozambique",483,"No","Very Low Risk",0,1
+"140","Rwanda",294,"No","Very Low Risk",0,1
+"141","Jamaica",170,"No","Very Low Risk",0,1
+"142","Benin",348,"No","Very Low Risk",0,1
+"143","Malawi",510,"No","Very Low Risk",0,1
+"144","Eswatini",315,"No","Very Low Risk",0,1
+"145","Channel Islands",10,"No","Very Low Risk",0,1
+"146","Togo",181,"No","Very Low Risk",0,1
+"147","Liberia",259,"No","Very Low Risk",0,1
+"148","Libya",419,"No","Very Low Risk",0,1
+"149","Tanzania",305,"No","Very Low Risk",0,1
+"150","Réunion",41,"No","Very Low Risk",0,1
+"151","Zimbabwe",396,"No","Very Low Risk",0,1
+"152","Taiwan",5,"No","Very Low Risk",0,1
+"153","Vietnam",23,"No","Very Low Risk",0,1
+"154","Mauritius",2,"No","Very Low Risk",0,1
+"155","Montenegro",13,"No","Very Low Risk",0,1
+"156","Isle of Man",0,"No","Very Low Risk",0,1
+"157","Myanmar",93,"No","Very Low Risk",0,1
+"158","Suriname",196,"No","Very Low Risk",0,1
+"159","Martinique",109,"No","Very Low Risk",0,1
+"160","Comoros",76,"No","Very Low Risk",0,1
+"161","Mongolia",72,"No","Very Low Risk",0,1
+"162","Cayman Islands",51,"No","Very Low Risk",0,1
+"163","Syria",102,"No","Very Low Risk",0,1
+"164","Faeroe Islands",0,"No","Very Low Risk",0,1
+"165","Guyana",69,"No","Very Low Risk",0,1
+"166","Gibraltar",0,"No","Very Low Risk",0,1
+"167","Guadeloupe",0,"No","Very Low Risk",0,1
+"168","Angola",94,"No","Very Low Risk",0,1
+"169","Bermuda",7,"No","Very Low Risk",0,1
+"170","Eritrea",103,"No","Very Low Risk",0,1
+"171","Brunei",0,"No","Very Low Risk",0,1
+"172","Cambodia",3,"No","Very Low Risk",0,1
+"173","Trinidad and Tobago",6,"No","Very Low Risk",0,1
+"174","Bahamas",19,"No","Very Low Risk",0,1
+"175","Burundi",28,"No","Very Low Risk",0,1
+"176","Aruba",0,"No","Very Low Risk",0,1
+"177","Monaco",1,"No","Very Low Risk",0,1
+"178","Barbados",5,"No","Very Low Risk",0,1
+"179","Botswana",63,"No","Very Low Risk",0,1
+"180","Liechtenstein",26,"No","Very Low Risk",0,1
+"181","Sint Maarten",0,"No","Very Low Risk",0,1
+"182","Bhutan",42,"No","Very Low Risk",0,1
+"183","French Polynesia",0,"No","Very Low Risk",0,1
+"184","Macao",0,"No","Very Low Risk",0,1
+"185","Saint Martin",3,"No","Very Low Risk",0,1
+"186","Namibia",21,"No","Very Low Risk",0,1
+"187","Gambia",11,"No","Very Low Risk",0,1
+"188","St. Vincent Grenadines",3,"No","Very Low Risk",0,1
+"189","Antigua and Barbuda",1,"No","Very Low Risk",0,1
+"190","Timor-Leste",0,"No","Very Low Risk",0,1
+"191","Curaçao",3,"No","Very Low Risk",0,1
+"192","Grenada",0,"No","Very Low Risk",0,1
+"193","Belize",4,"No","Very Low Risk",0,1
+"194","New Caledonia",0,"No","Very Low Risk",0,1
+"195","Laos",0,"No","Very Low Risk",0,1
+"196","Saint Lucia",1,"No","Very Low Risk",0,1
+"197","Dominica",0,"No","Very Low Risk",0,1
+"198","Fiji",0,"No","Very Low Risk",0,1
+"199","Saint Kitts and Nevis",0,"No","Very Low Risk",0,1
+"200","Falkland Islands",0,"No","Very Low Risk",0,1
+"201","Greenland",0,"No","Very Low Risk",0,1
+"202","Turks and Caicos",0,"No","Very Low Risk",0,1
+"203","Vatican City",0,"No","Very Low Risk",0,1
+"204","Montserrat",0,"No","Very Low Risk",0,1
+"205","Seychelles",0,"No","Very Low Risk",0,1
+"206","MS Zaandam",7,"No","Very Low Risk",0,1
+"207","Western Sahara",0,"No","Very Low Risk",0,1
+"208","British Virgin Islands",0,"No","Very Low Risk",0,1
+"209","Papua New Guinea",0,"No","Very Low Risk",0,1
+"210","Caribbean Netherlands",0,"No","Very Low Risk",0,1
+"211","St. Barth",0,"No","Very Low Risk",0,1
+"212","Lesotho",2,"No","Very Low Risk",0,1
+"213","Anguilla",0,"No","Very Low Risk",0,1
+"214","Saint Pierre Miquelon",0,"No","Very Low Risk",0,1
+"215","China",293,"No","Very Low Risk",0,1
+"216","Total:",1312254,"No","Very High Risk",1,0
+"217","Total:",659061,"No","Very High Risk",1,0
+"218","Total:",862333,"No","Very High Risk",1,0
+"219","Total:",623932,"No","Very High Risk",1,0
+"220","Total:",142142,"No","Very High Risk",1,0
+"221","Total:",432,"No","Very Low Risk",0,1
+"222","Total:",55,"No","Very Low Risk",0,1
+"223","Total:",3600209,"No","Very High Risk",1,0
